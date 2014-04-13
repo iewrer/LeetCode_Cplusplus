@@ -12,6 +12,9 @@
 #include <iostream>
 class Solution {
 public:
+    //计数排序
+    //先收集0、1、2的个数
+    //然后按顺序和个数重新输出到原数组中
     void sortColors(int A[], int n) {
         if (n == 0) {
             return;
