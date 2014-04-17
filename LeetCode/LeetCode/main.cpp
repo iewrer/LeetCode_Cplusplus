@@ -16,7 +16,7 @@ using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    vector<int> x = {1,2,3,1};
+    vector<int> x = {-1,0,1};
     vector<vector<int>> result = s.permute(x);
     for (int i = 0; i < result.size(); i++) {
         cout << i << ".";
