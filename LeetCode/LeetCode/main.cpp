@@ -15,12 +15,13 @@
 using namespace std;
 int main(int argc, const char * argv[])
 {
-    Solution s;
-    vector<int> x = {9,9};
-    x = s.plusOne(x);
-    for (int i = 0; i < x.size(); i++) {
-        cout << x.at(i) << "\n";
-    }
-
+//    Solution s;
+//    vector<int> x = {9,9};
+//    x = s.plusOne(x);
+//    for (int i = 0; i < x.size(); i++) {
+//        cout << x.at(i) << "\n";
+//    }
+    cout << (unsigned int)INT64_MAX << "\n";
+    cout << (unsigned int)-1 << "\n";
 }
 
