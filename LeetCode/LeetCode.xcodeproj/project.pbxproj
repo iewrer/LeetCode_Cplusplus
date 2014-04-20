@@ -12,6 +12,7 @@
 		4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */; };
 		4C58AD6F1900047B0053162A /* BestTimeToBuyAndSellStock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */; };
 		4C5AA7E318FEB41F00DD86B3 /* Permutations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C5AA7E118FEB41F00DD86B3 /* Permutations.cpp */; };
+		4C5E064B1903B13100021674 /* BinaryTreePostorderTraversal .cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C5E06491903B13100021674 /* BinaryTreePostorderTraversal .cpp */; };
 		4C66C5DC18F2675E007265C6 /* Pascal'sTriangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C66C5DB18F2675E007265C6 /* Pascal'sTriangle.cpp */; };
 		4C92CE2A18F6ED8600E37633 /* SwapNodesInPair.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */; };
 		4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */; };
@@ -54,6 +55,8 @@
 		4C58AD6E1900047B0053162A /* BestTimeToBuyAndSellStock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BestTimeToBuyAndSellStock.h; sourceTree = "<group>"; };
 		4C5AA7E118FEB41F00DD86B3 /* Permutations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Permutations.cpp; sourceTree = "<group>"; };
 		4C5AA7E218FEB41F00DD86B3 /* Permutations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Permutations.h; sourceTree = "<group>"; };
+		4C5E06491903B13100021674 /* BinaryTreePostorderTraversal .cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "BinaryTreePostorderTraversal .cpp"; sourceTree = "<group>"; };
+		4C5E064A1903B13100021674 /* BinaryTreePostorderTraversal .h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BinaryTreePostorderTraversal .h"; sourceTree = "<group>"; };
 		4C66C5DA18F26726007265C6 /* Pascal'sTriangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pascal'sTriangle.h"; sourceTree = "<group>"; };
 		4C66C5DB18F2675E007265C6 /* Pascal'sTriangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Pascal'sTriangle.cpp"; sourceTree = "<group>"; };
 		4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapNodesInPair.cpp; sourceTree = "<group>"; };
@@ -116,46 +119,48 @@
 		4CEB347318E811520084256A /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
-				4CEB347418E811520084256A /* main.cpp */,
-				4CEB347618E811520084256A /* LeetCode.1 */,
-				4CEB347D18E811840084256A /* MaxSubArray.cpp */,
-				4CEB347E18E811840084256A /* MaxSubArray.h */,
-				4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */,
-				4C3D98BD18EBE78700D9EAE2 /* MergeSortedList.h */,
-				4CDC8B7718EFB24100335636 /* SymmetricTree.cpp */,
-				4CDC8B7818EFB24100335636 /* SymmetricTree.h */,
 				4CDC8B7A18EFB57000335636 /* BalancedBinaryTree.cpp */,
 				4CDC8B7B18EFB57000335636 /* BalancedBinaryTree.h */,
-				4CDC8B7D18EFB59600335636 /* TreeNode.h */,
+				4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */,
+				4C58AD6E1900047B0053162A /* BestTimeToBuyAndSellStock.h */,
+				4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */,
+				4CB5B65818FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.h */,
+				4CC3264E18F9559600CB0921 /* File.cpp */,
+				4CC3264F18F9559600CB0921 /* File.h */,
+				4CCDD70118FD508500803AF6 /* GenarateParentheses.cpp */,
+				4CCDD70218FD508500803AF6 /* GenarateParentheses.h */,
+				4CD7136D18F798350053E174 /* GrayCode.cpp */,
+				4CD7136E18F798350053E174 /* GrayCode.h */,
+				4CEB347618E811520084256A /* LeetCode.1 */,
+				4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */,
+				4CFA8AB81900E77200D5212B /* LinkedListCycle.h */,
+				4CEB347418E811520084256A /* main.cpp */,
+				4CEB347D18E811840084256A /* MaxSubArray.cpp */,
+				4CEB347E18E811840084256A /* MaxSubArray.h */,
 				4C3FF66B18F1A86E00D959E4 /* MergeSortedArray.h */,
-				4C66C5DA18F26726007265C6 /* Pascal'sTriangle.h */,
+				4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */,
+				4C3D98BD18EBE78700D9EAE2 /* MergeSortedList.h */,
 				4C66C5DB18F2675E007265C6 /* Pascal'sTriangle.cpp */,
+				4C66C5DA18F26726007265C6 /* Pascal'sTriangle.h */,
+				4C5AA7E118FEB41F00DD86B3 /* Permutations.cpp */,
+				4C5AA7E218FEB41F00DD86B3 /* Permutations.h */,
+				4CCD4ABD1902400600BD0DC4 /* PlusOne.cpp */,
+				4CCD4ABE1902400600BD0DC4 /* PlusOne.h */,
+				4CCD4ABA19021F5100BD0DC4 /* RotateImage.cpp */,
+				4CCD4ABB19021F5100BD0DC4 /* RotateImage.h */,
+				4CE376AF18FAE3E8001DA02A /* SortColor.cpp */,
+				4CE376B018FAE3E8001DA02A /* SortColor.h */,
 				4C23C1FA18F3C22E00998F40 /* SortedArrayToAVLTree.cpp */,
 				4C23C1FB18F3C22E00998F40 /* SortedArrayToAVLTree.h */,
 				4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */,
 				4C92CE2918F6ED8600E37633 /* SwapNodesInPair.h */,
-				4CD7136D18F798350053E174 /* GrayCode.cpp */,
-				4CD7136E18F798350053E174 /* GrayCode.h */,
-				4CC3264E18F9559600CB0921 /* File.cpp */,
-				4CC3264F18F9559600CB0921 /* File.h */,
-				4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */,
-				4CB5B65818FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.h */,
-				4CE376AF18FAE3E8001DA02A /* SortColor.cpp */,
-				4CE376B018FAE3E8001DA02A /* SortColor.h */,
-				4CCDD70118FD508500803AF6 /* GenarateParentheses.cpp */,
-				4CCDD70218FD508500803AF6 /* GenarateParentheses.h */,
-				4C5AA7E118FEB41F00DD86B3 /* Permutations.cpp */,
-				4C5AA7E218FEB41F00DD86B3 /* Permutations.h */,
-				4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */,
-				4C58AD6E1900047B0053162A /* BestTimeToBuyAndSellStock.h */,
-				4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */,
-				4CFA8AB81900E77200D5212B /* LinkedListCycle.h */,
-				4CCD4ABA19021F5100BD0DC4 /* RotateImage.cpp */,
-				4CCD4ABB19021F5100BD0DC4 /* RotateImage.h */,
-				4CCD4ABD1902400600BD0DC4 /* PlusOne.cpp */,
-				4CCD4ABE1902400600BD0DC4 /* PlusOne.h */,
+				4CDC8B7718EFB24100335636 /* SymmetricTree.cpp */,
+				4CDC8B7818EFB24100335636 /* SymmetricTree.h */,
+				4CDC8B7D18EFB59600335636 /* TreeNode.h */,
 				4C389A031903A9AA00310E35 /* UnitPath.cpp */,
 				4C389A041903A9AA00310E35 /* UnitPath.h */,
+				4C5E06491903B13100021674 /* BinaryTreePostorderTraversal .cpp */,
+				4C5E064A1903B13100021674 /* BinaryTreePostorderTraversal .h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -226,6 +231,7 @@
 				4C66C5DC18F2675E007265C6 /* Pascal'sTriangle.cpp in Sources */,
 				4CCD4ABC19021F5100BD0DC4 /* RotateImage.cpp in Sources */,
 				4CEB347F18E811840084256A /* MaxSubArray.cpp in Sources */,
+				4C5E064B1903B13100021674 /* BinaryTreePostorderTraversal .cpp in Sources */,
 				4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */,
 				4C23C1FC18F3C22E00998F40 /* SortedArrayToAVLTree.cpp in Sources */,
 				4CDC8B7918EFB24100335636 /* SymmetricTree.cpp in Sources */,

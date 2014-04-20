@@ -10,18 +10,18 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "PlusOne.h"
+#include "BinaryTreePostorderTraversal .h"
+#include "TreeNode.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
-//    Solution s;
-//    vector<int> x = {9,9};
-//    x = s.plusOne(x);
-//    for (int i = 0; i < x.size(); i++) {
-//        cout << x.at(i) << "\n";
-//    }
-    cout << (unsigned int)INT64_MAX << "\n";
-    cout << (unsigned int)-1 << "\n";
+    Solution s;
+    TreeNode* root = new TreeNode(2);
+    root->left = new TreeNode(3);
+    root->left->left = new TreeNode(1);
+    s.postorderTraversal(root);
+//    cout << (unsigned int)INT64_MAX << "\n";
+//    cout << (unsigned int)-1 << "\n";
 }
 
