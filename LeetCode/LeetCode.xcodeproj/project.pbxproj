@@ -15,6 +15,8 @@
 		4C92CE2A18F6ED8600E37633 /* SwapNodesInPair.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */; };
 		4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */; };
 		4CC3265018F9559600CB0921 /* File.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3264E18F9559600CB0921 /* File.cpp */; };
+		4CCD4ABC19021F5100BD0DC4 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CCD4ABA19021F5100BD0DC4 /* RotateImage.cpp */; };
+		4CCD4ABF1902400600BD0DC4 /* PlusOne.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CCD4ABD1902400600BD0DC4 /* PlusOne.cpp */; };
 		4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CCDD70118FD508500803AF6 /* GenarateParentheses.cpp */; };
 		4CD7136F18F798350053E174 /* GrayCode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CD7136D18F798350053E174 /* GrayCode.cpp */; };
 		4CDC8B7918EFB24100335636 /* SymmetricTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CDC8B7718EFB24100335636 /* SymmetricTree.cpp */; };
@@ -23,6 +25,7 @@
 		4CEB347518E811520084256A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB347418E811520084256A /* main.cpp */; };
 		4CEB347718E811520084256A /* LeetCode.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4CEB347618E811520084256A /* LeetCode.1 */; };
 		4CEB347F18E811840084256A /* MaxSubArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB347D18E811840084256A /* MaxSubArray.cpp */; };
+		4CFA8AB91900E77200D5212B /* LinkedListCycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,6 +59,10 @@
 		4CB5B65818FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinaryTreeLevelOrderTranversal2.h; sourceTree = "<group>"; };
 		4CC3264E18F9559600CB0921 /* File.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = File.cpp; sourceTree = "<group>"; };
 		4CC3264F18F9559600CB0921 /* File.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = File.h; sourceTree = "<group>"; };
+		4CCD4ABA19021F5100BD0DC4 /* RotateImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RotateImage.cpp; sourceTree = "<group>"; };
+		4CCD4ABB19021F5100BD0DC4 /* RotateImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RotateImage.h; sourceTree = "<group>"; };
+		4CCD4ABD1902400600BD0DC4 /* PlusOne.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PlusOne.cpp; sourceTree = "<group>"; };
+		4CCD4ABE1902400600BD0DC4 /* PlusOne.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlusOne.h; sourceTree = "<group>"; };
 		4CCDD70118FD508500803AF6 /* GenarateParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GenarateParentheses.cpp; sourceTree = "<group>"; };
 		4CCDD70218FD508500803AF6 /* GenarateParentheses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GenarateParentheses.h; sourceTree = "<group>"; };
 		4CD7136D18F798350053E174 /* GrayCode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GrayCode.cpp; sourceTree = "<group>"; };
@@ -72,6 +79,8 @@
 		4CEB347618E811520084256A /* LeetCode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LeetCode.1; sourceTree = "<group>"; };
 		4CEB347D18E811840084256A /* MaxSubArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MaxSubArray.cpp; sourceTree = "<group>"; };
 		4CEB347E18E811840084256A /* MaxSubArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaxSubArray.h; sourceTree = "<group>"; };
+		4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinkedListCycle.cpp; sourceTree = "<group>"; };
+		4CFA8AB81900E77200D5212B /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +145,12 @@
 				4C5AA7E218FEB41F00DD86B3 /* Permutations.h */,
 				4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */,
 				4C58AD6E1900047B0053162A /* BestTimeToBuyAndSellStock.h */,
+				4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */,
+				4CFA8AB81900E77200D5212B /* LinkedListCycle.h */,
+				4CCD4ABA19021F5100BD0DC4 /* RotateImage.cpp */,
+				4CCD4ABB19021F5100BD0DC4 /* RotateImage.h */,
+				4CCD4ABD1902400600BD0DC4 /* PlusOne.cpp */,
+				4CCD4ABE1902400600BD0DC4 /* PlusOne.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -198,9 +213,12 @@
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4CEB347518E811520084256A /* main.cpp in Sources */,
 				4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */,
+				4CFA8AB91900E77200D5212B /* LinkedListCycle.cpp in Sources */,
 				4C92CE2A18F6ED8600E37633 /* SwapNodesInPair.cpp in Sources */,
 				4CE376B118FAE3E8001DA02A /* SortColor.cpp in Sources */,
+				4CCD4ABF1902400600BD0DC4 /* PlusOne.cpp in Sources */,
 				4C66C5DC18F2675E007265C6 /* Pascal'sTriangle.cpp in Sources */,
+				4CCD4ABC19021F5100BD0DC4 /* RotateImage.cpp in Sources */,
 				4CEB347F18E811840084256A /* MaxSubArray.cpp in Sources */,
 				4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */,
 				4C23C1FC18F3C22E00998F40 /* SortedArrayToAVLTree.cpp in Sources */,

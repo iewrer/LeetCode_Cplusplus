@@ -10,13 +10,17 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "BestTimeToBuyAndSellStock.h"
-//#include "BinaryTreeLevelOrderTranversal2.h"
+#include "PlusOne.h"
+
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    vector<int> x = {3,3};
-    cout << s.maxProfit(x);
+    vector<int> x = {9,9};
+    x = s.plusOne(x);
+    for (int i = 0; i < x.size(); i++) {
+        cout << x.at(i) << "\n";
+    }
+
 }
 
