@@ -10,18 +10,15 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "BinaryTreePostorderTraversal .h"
-#include "TreeNode.h"
+#include "SearchA2DMatrix .h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    TreeNode* root = new TreeNode(2);
-    root->left = new TreeNode(3);
-    root->left->left = new TreeNode(1);
-    s.postorderTraversal(root);
-//    cout << (unsigned int)INT64_MAX << "\n";
-//    cout << (unsigned int)-1 << "\n";
+    vector<vector<int>> x = {{1,3,5,7},{10,11,16,20},{23,30,34,50}};
+    vector<int> y;
+//    x.push_back(y);
+    s.searchMatrix(x,23);
 }
 
