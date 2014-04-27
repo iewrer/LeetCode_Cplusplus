@@ -32,6 +32,7 @@
 		4CEB347718E811520084256A /* LeetCode.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4CEB347618E811520084256A /* LeetCode.1 */; };
 		4CEB347F18E811840084256A /* MaxSubArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB347D18E811840084256A /* MaxSubArray.cpp */; };
 		4CF94823190CB6E7004B9B48 /* SetMatrixZeroes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94821190CB6E7004B9B48 /* SetMatrixZeroes.cpp */; };
+		4CF94826190CE530004B9B48 /* SpiralMatrix2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94824190CE530004B9B48 /* SpiralMatrix2.cpp */; };
 		4CFA8AB91900E77200D5212B /* LinkedListCycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */; };
 /* End PBXBuildFile section */
 
@@ -100,6 +101,8 @@
 		4CEB347E18E811840084256A /* MaxSubArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaxSubArray.h; sourceTree = "<group>"; };
 		4CF94821190CB6E7004B9B48 /* SetMatrixZeroes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SetMatrixZeroes.cpp; sourceTree = "<group>"; };
 		4CF94822190CB6E7004B9B48 /* SetMatrixZeroes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetMatrixZeroes.h; sourceTree = "<group>"; };
+		4CF94824190CE530004B9B48 /* SpiralMatrix2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SpiralMatrix2.cpp; sourceTree = "<group>"; };
+		4CF94825190CE530004B9B48 /* SpiralMatrix2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpiralMatrix2.h; sourceTree = "<group>"; };
 		4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinkedListCycle.cpp; sourceTree = "<group>"; };
 		4CFA8AB81900E77200D5212B /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -186,6 +189,8 @@
 				4C5993CC190BDB4900407E96 /* minPathSum.h */,
 				4CF94821190CB6E7004B9B48 /* SetMatrixZeroes.cpp */,
 				4CF94822190CB6E7004B9B48 /* SetMatrixZeroes.h */,
+				4CF94824190CE530004B9B48 /* SpiralMatrix2.cpp */,
+				4CF94825190CE530004B9B48 /* SpiralMatrix2.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -249,6 +254,7 @@
 				4C5993CD190BDB4900407E96 /* minPathSum.cpp in Sources */,
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */,
+				4CF94826190CE530004B9B48 /* SpiralMatrix2.cpp in Sources */,
 				4CEB347518E811520084256A /* main.cpp in Sources */,
 				4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */,
 				4CF94823190CB6E7004B9B48 /* SetMatrixZeroes.cpp in Sources */,
