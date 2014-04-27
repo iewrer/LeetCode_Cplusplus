@@ -35,6 +35,7 @@
 		4CF94826190CE530004B9B48 /* SpiralMatrix2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94824190CE530004B9B48 /* SpiralMatrix2.cpp */; };
 		4CF94829190CE949004B9B48 /* Combinations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94827190CE949004B9B48 /* Combinations.cpp */; };
 		4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF9482A190CF6C6004B9B48 /* PathSum.cpp */; };
+		4CF9482F190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF9482D190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.cpp */; };
 		4CFA8AB91900E77200D5212B /* LinkedListCycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */; };
 /* End PBXBuildFile section */
 
@@ -109,6 +110,8 @@
 		4CF94828190CE949004B9B48 /* Combinations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Combinations.h; sourceTree = "<group>"; };
 		4CF9482A190CF6C6004B9B48 /* PathSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PathSum.cpp; sourceTree = "<group>"; };
 		4CF9482B190CF6C6004B9B48 /* PathSum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathSum.h; sourceTree = "<group>"; };
+		4CF9482D190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RemoveDuplicatesFromSortedArrayII.cpp; sourceTree = "<group>"; };
+		4CF9482E190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RemoveDuplicatesFromSortedArrayII.h; sourceTree = "<group>"; };
 		4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinkedListCycle.cpp; sourceTree = "<group>"; };
 		4CFA8AB81900E77200D5212B /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -201,6 +204,8 @@
 				4CF94828190CE949004B9B48 /* Combinations.h */,
 				4CF9482A190CF6C6004B9B48 /* PathSum.cpp */,
 				4CF9482B190CF6C6004B9B48 /* PathSum.h */,
+				4CF9482D190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.cpp */,
+				4CF9482E190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -278,6 +283,7 @@
 				4CCD4ABC19021F5100BD0DC4 /* RotateImage.cpp in Sources */,
 				4CEB347F18E811840084256A /* MaxSubArray.cpp in Sources */,
 				4C5E064B1903B13100021674 /* BinaryTreePostorderTraversal .cpp in Sources */,
+				4CF9482F190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.cpp in Sources */,
 				4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */,
 				4C23C1FC18F3C22E00998F40 /* SortedArrayToAVLTree.cpp in Sources */,
 				4CDC8B7918EFB24100335636 /* SymmetricTree.cpp in Sources */,

@@ -10,15 +10,17 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "SearchA2DMatrix .h"
+#include "RemoveDuplicatesFromSortedArrayII.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    vector<vector<int>> x = {{1,3,5,7},{10,11,16,20},{23,30,34,50}};
-    vector<int> y;
+    int y[3] = {1,1,1};
 //    x.push_back(y);
-    s.searchMatrix(x,23);
+    int size = s.removeDuplicates(y, 3);
+    for (int i = 0; i < size; i++) {
+        cout << y[i] << " ";
+    }
 }
 
