@@ -34,6 +34,7 @@
 		4CF94823190CB6E7004B9B48 /* SetMatrixZeroes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94821190CB6E7004B9B48 /* SetMatrixZeroes.cpp */; };
 		4CF94826190CE530004B9B48 /* SpiralMatrix2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94824190CE530004B9B48 /* SpiralMatrix2.cpp */; };
 		4CF94829190CE949004B9B48 /* Combinations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF94827190CE949004B9B48 /* Combinations.cpp */; };
+		4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CF9482A190CF6C6004B9B48 /* PathSum.cpp */; };
 		4CFA8AB91900E77200D5212B /* LinkedListCycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */; };
 /* End PBXBuildFile section */
 
@@ -106,6 +107,8 @@
 		4CF94825190CE530004B9B48 /* SpiralMatrix2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpiralMatrix2.h; sourceTree = "<group>"; };
 		4CF94827190CE949004B9B48 /* Combinations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Combinations.cpp; sourceTree = "<group>"; };
 		4CF94828190CE949004B9B48 /* Combinations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Combinations.h; sourceTree = "<group>"; };
+		4CF9482A190CF6C6004B9B48 /* PathSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PathSum.cpp; sourceTree = "<group>"; };
+		4CF9482B190CF6C6004B9B48 /* PathSum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathSum.h; sourceTree = "<group>"; };
 		4CFA8AB71900E77200D5212B /* LinkedListCycle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LinkedListCycle.cpp; sourceTree = "<group>"; };
 		4CFA8AB81900E77200D5212B /* LinkedListCycle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinkedListCycle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -196,6 +199,8 @@
 				4CF94825190CE530004B9B48 /* SpiralMatrix2.h */,
 				4CF94827190CE949004B9B48 /* Combinations.cpp */,
 				4CF94828190CE949004B9B48 /* Combinations.h */,
+				4CF9482A190CF6C6004B9B48 /* PathSum.cpp */,
+				4CF9482B190CF6C6004B9B48 /* PathSum.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -257,6 +262,7 @@
 				4C5993C7190B857E00407E96 /* ContainerWithMostWater .cpp in Sources */,
 				4CD7136F18F798350053E174 /* GrayCode.cpp in Sources */,
 				4C5993CD190BDB4900407E96 /* minPathSum.cpp in Sources */,
+				4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */,
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */,
 				4CF94826190CE530004B9B48 /* SpiralMatrix2.cpp in Sources */,
