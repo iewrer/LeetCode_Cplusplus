@@ -10,17 +10,12 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "RemoveDuplicatesFromSortedArrayII.h"
+#include "Pascal'sTriangleII.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    int y[3] = {1,1,1};
-//    x.push_back(y);
-    int size = s.removeDuplicates(y, 3);
-    for (int i = 0; i < size; i++) {
-        cout << y[i] << " ";
-    }
+    s.getRow(13);
 }
 
