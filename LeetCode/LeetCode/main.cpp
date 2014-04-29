@@ -10,12 +10,13 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "LengthofLastWord.h"
+#include "SearchinRotatedSortedArray.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    s.lengthOfLastWord("");
+    int A[2] = {3,1};
+    s.search(A, 2, 1);
 }
 
