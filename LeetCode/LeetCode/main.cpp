@@ -10,12 +10,12 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "PalindromeNumber.h"
+#include "LengthofLastWord.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    s.isPalindrome(121);
+    s.lengthOfLastWord("");
 }
 

@@ -10,6 +10,7 @@
 #define __LeetCode__PalindromeNumber__
 
 #include <iostream>
+#include <math.h>
 class Solution {
 public:
     bool isPalindrome(int x) {
