@@ -10,12 +10,12 @@
 #include <string>
 #include <vector>
 #include <math.h>
-#include "Pascal'sTriangleII.h"
+#include "PalindromeNumber.h"
 
 using namespace std;
 int main(int argc, const char * argv[])
 {
     Solution s;
-    s.getRow(13);
+    s.isPalindrome(121);
 }
 

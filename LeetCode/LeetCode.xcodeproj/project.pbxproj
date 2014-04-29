@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C00498C190FB12F00F6B52B /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C00498A190FB12F00F6B52B /* PalindromeNumber.cpp */; };
+		4C00498F190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C00498D190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp */; };
 		4C02D7A6190E003E009B5D61 /* removeNthFromEnd.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C02D7A4190E003E009B5D61 /* removeNthFromEnd.cpp */; };
 		4C02D7A9190E32D1009B5D61 /* PopulatingNextRightPointersinEachNodeII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C02D7A7190E32D1009B5D61 /* PopulatingNextRightPointersinEachNodeII.cpp */; };
 		4C23C1FC18F3C22E00998F40 /* SortedArrayToAVLTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C23C1FA18F3C22E00998F40 /* SortedArrayToAVLTree.cpp */; };
@@ -56,6 +58,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C00498A190FB12F00F6B52B /* PalindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
+		4C00498B190FB12F00F6B52B /* PalindromeNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PalindromeNumber.h; sourceTree = "<group>"; };
+		4C00498D190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MinimumDepthofBinaryTree.cpp; sourceTree = "<group>"; };
+		4C00498E190FB94200F6B52B /* MinimumDepthofBinaryTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MinimumDepthofBinaryTree.h; sourceTree = "<group>"; };
 		4C02D7A4190E003E009B5D61 /* removeNthFromEnd.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = removeNthFromEnd.cpp; sourceTree = "<group>"; };
 		4C02D7A5190E003E009B5D61 /* removeNthFromEnd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = removeNthFromEnd.h; sourceTree = "<group>"; };
 		4C02D7A7190E32D1009B5D61 /* PopulatingNextRightPointersinEachNodeII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PopulatingNextRightPointersinEachNodeII.cpp; sourceTree = "<group>"; };
@@ -221,6 +227,10 @@
 				4C02D7A5190E003E009B5D61 /* removeNthFromEnd.h */,
 				4C02D7A7190E32D1009B5D61 /* PopulatingNextRightPointersinEachNodeII.cpp */,
 				4C02D7A8190E32D1009B5D61 /* PopulatingNextRightPointersinEachNodeII.h */,
+				4C00498A190FB12F00F6B52B /* PalindromeNumber.cpp */,
+				4C00498B190FB12F00F6B52B /* PalindromeNumber.h */,
+				4C00498D190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp */,
+				4C00498E190FB94200F6B52B /* MinimumDepthofBinaryTree.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -302,9 +312,11 @@
 				4C5E064B1903B13100021674 /* BinaryTreePostorderTraversal .cpp in Sources */,
 				4CF9482F190CFEE6004B9B48 /* RemoveDuplicatesFromSortedArrayII.cpp in Sources */,
 				4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */,
+				4C00498C190FB12F00F6B52B /* PalindromeNumber.cpp in Sources */,
 				4C23C1FC18F3C22E00998F40 /* SortedArrayToAVLTree.cpp in Sources */,
 				4CDC8B7918EFB24100335636 /* SymmetricTree.cpp in Sources */,
 				4C5993CA190B90FF00407E96 /* SearchA2DMatrix .cpp in Sources */,
+				4C00498F190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp in Sources */,
 				4C5E064E1903BCB500021674 /* BinaryTreeLevelOrderTraversal.cpp in Sources */,
 				4C02D7A6190E003E009B5D61 /* removeNthFromEnd.cpp in Sources */,
 				4CC3265018F9559600CB0921 /* File.cpp in Sources */,
