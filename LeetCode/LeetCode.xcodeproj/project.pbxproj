@@ -22,6 +22,7 @@
 		4C5E064B1903B13100021674 /* BinaryTreePostorderTraversal .cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C5E06491903B13100021674 /* BinaryTreePostorderTraversal .cpp */; };
 		4C5E064E1903BCB500021674 /* BinaryTreeLevelOrderTraversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C5E064C1903BCB500021674 /* BinaryTreeLevelOrderTraversal.cpp */; };
 		4C66C5DC18F2675E007265C6 /* Pascal'sTriangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C66C5DB18F2675E007265C6 /* Pascal'sTriangle.cpp */; };
+		4C7D1F9E190FBE90009821BD /* SumRoottoLeafNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D1F9C190FBE90009821BD /* SumRoottoLeafNumbers.cpp */; };
 		4C92CE2A18F6ED8600E37633 /* SwapNodesInPair.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */; };
 		4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */; };
 		4CC3265018F9559600CB0921 /* File.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3264E18F9559600CB0921 /* File.cpp */; };
@@ -89,6 +90,8 @@
 		4C5E064D1903BCB500021674 /* BinaryTreeLevelOrderTraversal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinaryTreeLevelOrderTraversal.h; sourceTree = "<group>"; };
 		4C66C5DA18F26726007265C6 /* Pascal'sTriangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pascal'sTriangle.h"; sourceTree = "<group>"; };
 		4C66C5DB18F2675E007265C6 /* Pascal'sTriangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Pascal'sTriangle.cpp"; sourceTree = "<group>"; };
+		4C7D1F9C190FBE90009821BD /* SumRoottoLeafNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SumRoottoLeafNumbers.cpp; sourceTree = "<group>"; };
+		4C7D1F9D190FBE90009821BD /* SumRoottoLeafNumbers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumRoottoLeafNumbers.h; sourceTree = "<group>"; };
 		4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapNodesInPair.cpp; sourceTree = "<group>"; };
 		4C92CE2918F6ED8600E37633 /* SwapNodesInPair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwapNodesInPair.h; sourceTree = "<group>"; };
 		4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BinaryTreeLevelOrderTranversal2.cpp; sourceTree = "<group>"; };
@@ -231,6 +234,8 @@
 				4C00498B190FB12F00F6B52B /* PalindromeNumber.h */,
 				4C00498D190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp */,
 				4C00498E190FB94200F6B52B /* MinimumDepthofBinaryTree.h */,
+				4C7D1F9C190FBE90009821BD /* SumRoottoLeafNumbers.cpp */,
+				4C7D1F9D190FBE90009821BD /* SumRoottoLeafNumbers.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -296,6 +301,7 @@
 				4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */,
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */,
+				4C7D1F9E190FBE90009821BD /* SumRoottoLeafNumbers.cpp in Sources */,
 				4CF94826190CE530004B9B48 /* SpiralMatrix2.cpp in Sources */,
 				4CEB347518E811520084256A /* main.cpp in Sources */,
 				4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */,
