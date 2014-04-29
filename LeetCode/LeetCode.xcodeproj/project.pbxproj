@@ -14,6 +14,7 @@
 		4C23C1FC18F3C22E00998F40 /* SortedArrayToAVLTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C23C1FA18F3C22E00998F40 /* SortedArrayToAVLTree.cpp */; };
 		4C29551A190FC9D8006D9A93 /* LengthofLastWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C295518190FC9D8006D9A93 /* LengthofLastWord.cpp */; };
 		4C29551D190FCED5006D9A93 /* SearchinRotatedSortedArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29551B190FCED5006D9A93 /* SearchinRotatedSortedArray.cpp */; };
+		4C295520190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29551E190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp */; };
 		4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C389A031903A9AA00310E35 /* UnitPath.cpp */; };
 		4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */; };
 		4C58AD6F1900047B0053162A /* BestTimeToBuyAndSellStock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */; };
@@ -75,6 +76,8 @@
 		4C295519190FC9D8006D9A93 /* LengthofLastWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LengthofLastWord.h; sourceTree = "<group>"; };
 		4C29551B190FCED5006D9A93 /* SearchinRotatedSortedArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchinRotatedSortedArray.cpp; sourceTree = "<group>"; };
 		4C29551C190FCED5006D9A93 /* SearchinRotatedSortedArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchinRotatedSortedArray.h; sourceTree = "<group>"; };
+		4C29551E190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SearchinRotatedSortedArrayII.cpp; sourceTree = "<group>"; };
+		4C29551F190FD40D006D9A93 /* SearchinRotatedSortedArrayII.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchinRotatedSortedArrayII.h; sourceTree = "<group>"; };
 		4C389A031903A9AA00310E35 /* UnitPath.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UnitPath.cpp; sourceTree = "<group>"; };
 		4C389A041903A9AA00310E35 /* UnitPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnitPath.h; sourceTree = "<group>"; };
 		4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSortedList.cpp; sourceTree = "<group>"; };
@@ -246,6 +249,8 @@
 				4C295519190FC9D8006D9A93 /* LengthofLastWord.h */,
 				4C29551B190FCED5006D9A93 /* SearchinRotatedSortedArray.cpp */,
 				4C29551C190FCED5006D9A93 /* SearchinRotatedSortedArray.h */,
+				4C29551E190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp */,
+				4C29551F190FD40D006D9A93 /* SearchinRotatedSortedArrayII.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -309,6 +314,7 @@
 				4CF94832190D3703004B9B48 /* Pascal'sTriangleII.cpp in Sources */,
 				4C5993CD190BDB4900407E96 /* minPathSum.cpp in Sources */,
 				4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */,
+				4C295520190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */,
 				4C7D1F9E190FBE90009821BD /* SumRoottoLeafNumbers.cpp in Sources */,
