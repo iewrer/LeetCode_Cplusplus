@@ -17,6 +17,8 @@
 		4C295520190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29551E190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp */; };
 		4C2955231911443C006D9A93 /* ValidParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C2955211911443C006D9A93 /* ValidParentheses.cpp */; };
 		4C29552619134A7A006D9A93 /* PathSumII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29552419134A7A006D9A93 /* PathSumII.cpp */; };
+		4C29552919134E80006D9A93 /* JumpGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29552719134E80006D9A93 /* JumpGame.cpp */; };
+		4C301274191F347000DA1B75 /* Subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C301272191F347000DA1B75 /* Subsets.cpp */; };
 		4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C389A031903A9AA00310E35 /* UnitPath.cpp */; };
 		4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */; };
 		4C58AD6F1900047B0053162A /* BestTimeToBuyAndSellStock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */; };
@@ -84,6 +86,10 @@
 		4C2955221911443C006D9A93 /* ValidParentheses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ValidParentheses.h; sourceTree = "<group>"; };
 		4C29552419134A7A006D9A93 /* PathSumII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PathSumII.cpp; sourceTree = "<group>"; };
 		4C29552519134A7A006D9A93 /* PathSumII.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathSumII.h; sourceTree = "<group>"; };
+		4C29552719134E80006D9A93 /* JumpGame.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JumpGame.cpp; sourceTree = "<group>"; };
+		4C29552819134E80006D9A93 /* JumpGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JumpGame.h; sourceTree = "<group>"; };
+		4C301272191F347000DA1B75 /* Subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Subsets.cpp; sourceTree = "<group>"; };
+		4C301273191F347000DA1B75 /* Subsets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subsets.h; sourceTree = "<group>"; };
 		4C389A031903A9AA00310E35 /* UnitPath.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UnitPath.cpp; sourceTree = "<group>"; };
 		4C389A041903A9AA00310E35 /* UnitPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnitPath.h; sourceTree = "<group>"; };
 		4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSortedList.cpp; sourceTree = "<group>"; };
@@ -261,6 +267,10 @@
 				4C2955221911443C006D9A93 /* ValidParentheses.h */,
 				4C29552419134A7A006D9A93 /* PathSumII.cpp */,
 				4C29552519134A7A006D9A93 /* PathSumII.h */,
+				4C29552719134E80006D9A93 /* JumpGame.cpp */,
+				4C29552819134E80006D9A93 /* JumpGame.h */,
+				4C301272191F347000DA1B75 /* Subsets.cpp */,
+				4C301273191F347000DA1B75 /* Subsets.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -352,10 +362,12 @@
 				4C29551D190FCED5006D9A93 /* SearchinRotatedSortedArray.cpp in Sources */,
 				4CDC8B7918EFB24100335636 /* SymmetricTree.cpp in Sources */,
 				4C5993CA190B90FF00407E96 /* SearchA2DMatrix .cpp in Sources */,
+				4C29552919134E80006D9A93 /* JumpGame.cpp in Sources */,
 				4C00498F190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp in Sources */,
 				4C5E064E1903BCB500021674 /* BinaryTreeLevelOrderTraversal.cpp in Sources */,
 				4C02D7A6190E003E009B5D61 /* removeNthFromEnd.cpp in Sources */,
 				4CC3265018F9559600CB0921 /* File.cpp in Sources */,
+				4C301274191F347000DA1B75 /* Subsets.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
