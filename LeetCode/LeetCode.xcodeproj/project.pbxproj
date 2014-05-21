@@ -20,6 +20,7 @@
 		4C29552919134E80006D9A93 /* JumpGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29552719134E80006D9A93 /* JumpGame.cpp */; };
 		4C301274191F347000DA1B75 /* Subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C301272191F347000DA1B75 /* Subsets.cpp */; };
 		4C387CD3192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C387CD1192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp */; };
+		4C387CD6192D047A001B7779 /* LongestCommonPrefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C387CD4192D047A001B7779 /* LongestCommonPrefix.cpp */; };
 		4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C389A031903A9AA00310E35 /* UnitPath.cpp */; };
 		4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */; };
 		4C58AD6F1900047B0053162A /* BestTimeToBuyAndSellStock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */; };
@@ -94,6 +95,8 @@
 		4C301273191F347000DA1B75 /* Subsets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subsets.h; sourceTree = "<group>"; };
 		4C387CD1192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FlattenBinaryTreetoLinkedList.cpp; sourceTree = "<group>"; };
 		4C387CD2192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlattenBinaryTreetoLinkedList.h; sourceTree = "<group>"; };
+		4C387CD4192D047A001B7779 /* LongestCommonPrefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestCommonPrefix.cpp; sourceTree = "<group>"; };
+		4C387CD5192D047A001B7779 /* LongestCommonPrefix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongestCommonPrefix.h; sourceTree = "<group>"; };
 		4C389A031903A9AA00310E35 /* UnitPath.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UnitPath.cpp; sourceTree = "<group>"; };
 		4C389A041903A9AA00310E35 /* UnitPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnitPath.h; sourceTree = "<group>"; };
 		4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSortedList.cpp; sourceTree = "<group>"; };
@@ -281,6 +284,8 @@
 				4CAA41D11929EA70008676FA /* UniquePath2.h */,
 				4C387CD1192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp */,
 				4C387CD2192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.h */,
+				4C387CD4192D047A001B7779 /* LongestCommonPrefix.cpp */,
+				4C387CD5192D047A001B7779 /* LongestCommonPrefix.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -347,6 +352,7 @@
 				4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */,
 				4C387CD3192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp in Sources */,
 				4C295520190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp in Sources */,
+				4C387CD6192D047A001B7779 /* LongestCommonPrefix.cpp in Sources */,
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */,
 				4C7D1F9E190FBE90009821BD /* SumRoottoLeafNumbers.cpp in Sources */,
