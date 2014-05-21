@@ -19,6 +19,7 @@
 		4C29552619134A7A006D9A93 /* PathSumII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29552419134A7A006D9A93 /* PathSumII.cpp */; };
 		4C29552919134E80006D9A93 /* JumpGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C29552719134E80006D9A93 /* JumpGame.cpp */; };
 		4C301274191F347000DA1B75 /* Subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C301272191F347000DA1B75 /* Subsets.cpp */; };
+		4C387CD3192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C387CD1192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp */; };
 		4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C389A031903A9AA00310E35 /* UnitPath.cpp */; };
 		4C3D98BE18EBE78700D9EAE2 /* MergeSortedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */; };
 		4C58AD6F1900047B0053162A /* BestTimeToBuyAndSellStock.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C58AD6D1900047B0053162A /* BestTimeToBuyAndSellStock.cpp */; };
@@ -31,6 +32,7 @@
 		4C66C5DC18F2675E007265C6 /* Pascal'sTriangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C66C5DB18F2675E007265C6 /* Pascal'sTriangle.cpp */; };
 		4C7D1F9E190FBE90009821BD /* SumRoottoLeafNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C7D1F9C190FBE90009821BD /* SumRoottoLeafNumbers.cpp */; };
 		4C92CE2A18F6ED8600E37633 /* SwapNodesInPair.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */; };
+		4CAA41D21929EA70008676FA /* UniquePath2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CAA41D01929EA70008676FA /* UniquePath2.cpp */; };
 		4CB5B65918FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */; };
 		4CC3265018F9559600CB0921 /* File.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CC3264E18F9559600CB0921 /* File.cpp */; };
 		4CCD4ABC19021F5100BD0DC4 /* RotateImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CCD4ABA19021F5100BD0DC4 /* RotateImage.cpp */; };
@@ -90,6 +92,8 @@
 		4C29552819134E80006D9A93 /* JumpGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JumpGame.h; sourceTree = "<group>"; };
 		4C301272191F347000DA1B75 /* Subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Subsets.cpp; sourceTree = "<group>"; };
 		4C301273191F347000DA1B75 /* Subsets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subsets.h; sourceTree = "<group>"; };
+		4C387CD1192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FlattenBinaryTreetoLinkedList.cpp; sourceTree = "<group>"; };
+		4C387CD2192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlattenBinaryTreetoLinkedList.h; sourceTree = "<group>"; };
 		4C389A031903A9AA00310E35 /* UnitPath.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UnitPath.cpp; sourceTree = "<group>"; };
 		4C389A041903A9AA00310E35 /* UnitPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnitPath.h; sourceTree = "<group>"; };
 		4C3D98BC18EBE78700D9EAE2 /* MergeSortedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSortedList.cpp; sourceTree = "<group>"; };
@@ -115,6 +119,8 @@
 		4C7D1F9D190FBE90009821BD /* SumRoottoLeafNumbers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumRoottoLeafNumbers.h; sourceTree = "<group>"; };
 		4C92CE2818F6ED8600E37633 /* SwapNodesInPair.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SwapNodesInPair.cpp; sourceTree = "<group>"; };
 		4C92CE2918F6ED8600E37633 /* SwapNodesInPair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwapNodesInPair.h; sourceTree = "<group>"; };
+		4CAA41D01929EA70008676FA /* UniquePath2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UniquePath2.cpp; sourceTree = "<group>"; };
+		4CAA41D11929EA70008676FA /* UniquePath2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UniquePath2.h; sourceTree = "<group>"; };
 		4CB5B65718FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BinaryTreeLevelOrderTranversal2.cpp; sourceTree = "<group>"; };
 		4CB5B65818FA85DC009BC7DD /* BinaryTreeLevelOrderTranversal2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BinaryTreeLevelOrderTranversal2.h; sourceTree = "<group>"; };
 		4CC3264E18F9559600CB0921 /* File.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = File.cpp; sourceTree = "<group>"; };
@@ -271,6 +277,10 @@
 				4C29552819134E80006D9A93 /* JumpGame.h */,
 				4C301272191F347000DA1B75 /* Subsets.cpp */,
 				4C301273191F347000DA1B75 /* Subsets.h */,
+				4CAA41D01929EA70008676FA /* UniquePath2.cpp */,
+				4CAA41D11929EA70008676FA /* UniquePath2.h */,
+				4C387CD1192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp */,
+				4C387CD2192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -335,6 +345,7 @@
 				4C2955231911443C006D9A93 /* ValidParentheses.cpp in Sources */,
 				4C5993CD190BDB4900407E96 /* minPathSum.cpp in Sources */,
 				4CF9482C190CF6C6004B9B48 /* PathSum.cpp in Sources */,
+				4C387CD3192CFEFF001B7779 /* FlattenBinaryTreetoLinkedList.cpp in Sources */,
 				4C295520190FD40D006D9A93 /* SearchinRotatedSortedArrayII.cpp in Sources */,
 				4CCDD70318FD508500803AF6 /* GenarateParentheses.cpp in Sources */,
 				4C389A051903A9AA00310E35 /* UnitPath.cpp in Sources */,
@@ -364,6 +375,7 @@
 				4C5993CA190B90FF00407E96 /* SearchA2DMatrix .cpp in Sources */,
 				4C29552919134E80006D9A93 /* JumpGame.cpp in Sources */,
 				4C00498F190FB94200F6B52B /* MinimumDepthofBinaryTree.cpp in Sources */,
+				4CAA41D21929EA70008676FA /* UniquePath2.cpp in Sources */,
 				4C5E064E1903BCB500021674 /* BinaryTreeLevelOrderTraversal.cpp in Sources */,
 				4C02D7A6190E003E009B5D61 /* removeNthFromEnd.cpp in Sources */,
 				4CC3265018F9559600CB0921 /* File.cpp in Sources */,
